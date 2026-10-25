@@ -19,4 +19,3 @@ ping 192.168.1.1
 
 # Verify that DNS is resolving domain names
 nslookup google.com
-##pisello
